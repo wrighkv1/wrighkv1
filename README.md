@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kristen Wright! :)
+- 👋 Hi, I’m Kristen Wright :)
 
 <!---
 wrighkv1/wrighkv1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
